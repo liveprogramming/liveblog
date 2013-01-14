@@ -29,7 +29,7 @@ author :
 production_url : liveprogramming.github.com/liveblog
 #production_url : liveblog
 
-baseurl : http://liveprogramming.github.com/liveblog
+baseurl : /liveblog
 
 # Jeykll-Scholar
 #scholar:
