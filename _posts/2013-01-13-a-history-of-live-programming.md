@@ -83,7 +83,7 @@ there are examples of live coding which are reactive to the environment.
 For example, see this [impressive art installation](http://www.creativeapplications.net/scripts/communion-cinder-scripts-events-special/).
 
 Can we think of software engineering activities such as katas are performances in much
-the same sense as audio/video performances?  Where does art end and programming begin?
+the same sense as audiovisual performances?  Where does art end and programming begin?
 
 For an intensive overview of live coding, including past events, and research see 
 [toplap.org](http://toplap.org/wiki/Read_me_paper).
