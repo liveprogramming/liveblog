@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: liveblog/:categories/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: false
@@ -26,8 +26,8 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-#production_url : liveprogramming.github.com/liveblog
-production_url : liveblog
+production_url : liveprogramming.github.com/liveblog
+#production_url : liveblog
 
 # Jeykll-Scholar
 #scholar:
@@ -68,14 +68,14 @@ JB :
   #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
   #  REQUIRED! Set BASE_PATH to: http://username.github.com/project-name
 
-BASE_PATH : http://liveprogramming.github.com/liveblog
+#BASE_PATH : http://liveprogramming.github.com/liveblog
 
   # CAUTION:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-#BASE_PATH : false
+BASE_PATH : false
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
