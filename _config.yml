@@ -29,22 +29,21 @@ author :
 production_url : http://liveprogramming.github.com/2013/liveblog
 
 # Jeykll-Scholar
-scholar:
-  style: apa
-  locale: en
-
-  sort_by: none
-  order: ascending
-
-  source: ./_bibliography
-  bibliography: references.bib
-
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
-
+#scholar:
+#  style: apa
+#  locale: en
+#
+#  sort_by: none
+#  order: ascending
+#
+#  source: ./_bibliography
+#  bibliography: references.bib
+#
+#  details_dir:    bibliography
+#  details_layout: bibtex.html
+#  details_link:   Details
+#
+#  query: "@*"
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

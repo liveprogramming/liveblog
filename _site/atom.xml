@@ -4,7 +4,7 @@
  <title>Live Programming Blog</title>
  <link href="http://liveprogramming.github.com/2013/liveblog/atom.xml" rel="self"/>
  <link href="http://liveprogramming.github.com/2013/liveblog"/>
- <updated>2013-01-14T00:49:24-05:00</updated>
+ <updated>2013-01-14T01:16:55-05:00</updated>
  <id>http://liveprogramming.github.com/2013/liveblog</id>
  <author>
    <name>Live collective</name>
@@ -67,7 +67,7 @@
 
 &lt;h2 id='live_coding'&gt;LIVE CODING&lt;/h2&gt;
 
-&lt;p&gt;&lt;a title='Live code lab' href='https://github.com/davidedc/livecodelab'&gt;&lt;img alt='Image' src='/images/livecode.png' /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://github.com/davidedc/livecodelab' title='Live code lab'&gt;&lt;img alt='Image' src='/images/livecode.png' /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Hacking, art, and performance has been with computing since the 1950s.&lt;br /&gt;Breaking out of the demoscene of 70s to 90s, where demo programs of graphics and music were swapped and shared, emerged a public art form where the graphics and music were created real-time in live programming environments.&lt;/p&gt;
 
@@ -112,16 +112,43 @@
 &lt;p&gt;Have an idea to contribute? Submit to the &lt;a href='http://liveprogramming.github.com/2013/'&gt;LIVE 2013 workshop&lt;/a&gt; co-located with ICSE in San Francisco.&lt;/p&gt;
 
 &lt;h2 id='bibliography'&gt;Bibliography&lt;/h2&gt;
-&lt;ol class='bibliography'&gt;&lt;li&gt;&lt;span id='citeulike:11850493'&gt;Myers, B. A., McDaniel, R., &amp;#38; Wolber, D..  (2000). Programming by example: intelligence in demonstrational interfaces. &lt;i&gt;Commun. ACM&lt;/i&gt;, &lt;i&gt;43&lt;/i&gt;(3), 82–89. doi:10.1145/330534.330545&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id='citeulike:11850492'&gt;Victor, B..  (2012). Learnable Programming. Retrieved from http://worrydream.com/LearnableProgramming&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id='citeulike:11850490'&gt;Kuhn, A..  (2012, December). On Extracting Unit Tests from Interactive Programming Sessions. Retrieved from http://arxiv.org/abs/1212.1796&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id='Tanimoto90'&gt;Tanimoto, S. L..  (1990). VIVA: A visual language for image processing. &lt;i&gt;J. Vis. Lang. Comput.&lt;/i&gt;, &lt;i&gt;1&lt;/i&gt;, 127–139. doi:10.1016/S1045-926X(05)80012-6&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id='Church10'&gt;Church, L., Nash, C., &amp;#38; Blackwell, A. F..  (2010). Liveness in notation use: From music to programming. In &lt;i&gt;Proceedings of the 22nd Annual Workshop of the Psychology of Programming Interest Group (PPIG 2010)&lt;/i&gt; (2–11).&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id='citeulike:4277'&gt;Edwards, J..  (2004). Example centric programming. In &lt;i&gt;OOPSLA ’04: Companion to the 19th annual ACM SIGPLAN conference on Object-oriented programming systems, languages, and applications&lt;/i&gt; (124). New York, NY, USA: ACM. doi:10.1145/1028664.1028713&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id='citeulike:8239560'&gt;Wilcox, E. M., Atwood, J. W., Burnett, M. M., Cadiz, J. J., &amp;#38; Cook, C. R..  (1997). Does continuous visual feedback aid debugging in direct-manipulation programming systems?. In &lt;i&gt;Proceedings of the ACM SIGCHI Conference on Human factors in computing systems&lt;/i&gt;, CHI ’97 (258–265). New York, NY, USA: ACM. doi:10.1145/258549.258721&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id='citeulike:11894141'&gt;Burnett, M. M., Atwood, J. W., &amp;#38; Welch, Z. T..  (1998). Implementing Level 4 Liveness in Declarative Visual Programming Languages. In &lt;i&gt;Proceedings of the IEEE Symposium on Visual Languages&lt;/i&gt;, VL ’98. Washington, DC, USA: IEEE Computer Society. Retrieved from http://portal.acm.org/citation.cfm?id=834482&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+
 &lt;ul&gt;
-&lt;li&gt;See also the references posted in &lt;a href='http://worrydream.com/LearnableProgramming'&gt;LearnableProramming&lt;/a&gt; though as Bret remarks studying historical software can be challenging.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Myers, B. A., McDaniel, R., &amp;amp; Wolber, D.. (2000). Programming by example: intelligence in demonstrational interfaces. Commun. ACM, 43(3), 82–89. doi:10.1145/330534.330545&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Victor, B.. (2012). Learnable Programming. Retrieved from http://worrydream.com/LearnableProgramming&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Kuhn, A.. (2012, December). On Extracting Unit Tests from Interactive Programming Sessions. Retrieved from http://arxiv.org/abs/1212.1796&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Tanimoto, S. L.. (1990). VIVA: A visual language for image processing. J. Vis. Lang. Comput., 1, 127–139. doi:10.1016/S1045-926X(05)80012-6&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Church, L., Nash, C., &amp;amp; Blackwell, A. F.. (2010). Liveness in notation use: From music to programming. In Proceedings of the 22nd Annual Workshop of the Psychology of Programming Interest Group (PPIG 2010) (2–11).&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Edwards, J.. (2004). Example centric programming. In OOPSLA ’04: Companion to the 19th annual ACM SIGPLAN conference on Object-oriented programming systems, languages, and applications (124). New York, NY, USA: ACM. doi:10.1145/1028664.1028713&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Wilcox, E. M., Atwood, J. W., Burnett, M. M., Cadiz, J. J., &amp;amp; Cook, C. R.. (1997). Does continuous visual feedback aid debugging in direct-manipulation programming systems?. In Proceedings of the ACM SIGCHI Conference on Human factors in computing systems, CHI ’97 (258–265). New York, NY, USA: ACM. doi:10.1145/258549.258721&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Burnett, M. M., Atwood, J. W., &amp;amp; Welch, Z. T.. (1998). Implementing Level 4 Liveness in Declarative Visual Programming Languages. In Proceedings of the IEEE Symposium on Visual Languages, VL ’98. Washington, DC, USA: IEEE Computer Society. Retrieved from http://portal.acm.org/citation.cfm?id=834482&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;See also the references posted in &lt;a href='http://worrydream.com/LearnableProgramming'&gt;LearnableProramming&lt;/a&gt; though as Bret remarks studying historical software can be challenging.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</content>
  </entry>
  

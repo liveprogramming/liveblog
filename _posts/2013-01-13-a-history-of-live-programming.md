@@ -45,7 +45,7 @@ For more recent example of liveness, see the following systems:
 
 What does it take for a system to demostrate liveness?
 
-Steve Tanimoto describes four degrees of liveness {% cite Tanimoto90 %}:
+Steve Tanimoto describes four degrees of liveness (Tanimoto90):
 - Level 1: No semantic feedback about a program is provided.
 - Level 2: Semantic feedback is available on demand on a selected component. _For example, typing in an expression in an interpreter demostrates level 2 liveness._
 - Level 3: Incremental semantic feedback is automatically provided with an incremental program edit.  _For example, a spreadsheet supports level 3 liveness._
@@ -113,7 +113,15 @@ Have an idea to contribute?  Submit to the [LIVE 2013 workshop](http://liveprogr
 
 ## Bibliography
 
-{% bibliography liveness %}  
+* Myers, B. A., McDaniel, R., & Wolber, D.. (2000). Programming by example: intelligence in demonstrational interfaces. Commun. ACM, 43(3), 82–89. doi:10.1145/330534.330545
+* Victor, B.. (2012). Learnable Programming. Retrieved from http://worrydream.com/LearnableProgramming
+* Kuhn, A.. (2012, December). On Extracting Unit Tests from Interactive Programming Sessions. Retrieved from http://arxiv.org/abs/1212.1796
+* Tanimoto, S. L.. (1990). VIVA: A visual language for image processing. J. Vis. Lang. Comput., 1, 127–139. doi:10.1016/S1045-926X(05)80012-6
+* Church, L., Nash, C., & Blackwell, A. F.. (2010). Liveness in notation use: From music to programming. In Proceedings of the 22nd Annual Workshop of the Psychology of Programming Interest Group (PPIG 2010) (2–11).
+* Edwards, J.. (2004). Example centric programming. In OOPSLA ’04: Companion to the 19th annual ACM SIGPLAN conference on Object-oriented programming systems, languages, and applications (124). New York, NY, USA: ACM. doi:10.1145/1028664.1028713
+* Wilcox, E. M., Atwood, J. W., Burnett, M. M., Cadiz, J. J., & Cook, C. R.. (1997). Does continuous visual feedback aid debugging in direct-manipulation programming systems?. In Proceedings of the ACM SIGCHI Conference on Human factors in computing systems, CHI ’97 (258–265). New York, NY, USA: ACM. doi:10.1145/258549.258721
+* Burnett, M. M., Atwood, J. W., & Welch, Z. T.. (1998). Implementing Level 4 Liveness in Declarative Visual Programming Languages. In Proceedings of the IEEE Symposium on Visual Languages, VL ’98. Washington, DC, USA: IEEE Computer Society. Retrieved from http://portal.acm.org/citation.cfm?id=834482
+
 
 - See also the references posted in [LearnableProramming](http://worrydream.com/LearnableProgramming) though as Bret remarks studying historical software can be challenging. 
 
