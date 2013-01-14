@@ -3,7 +3,7 @@
 permalink: liveblog/:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
+auto: false
 pygments: true
 
 # Themes are encouraged to use these universal variables 
@@ -11,12 +11,12 @@ pygments: true
 #
 title : Live Programming Blog
 tagline: Liveness in code.
-author :
+#author :
   name : Live collective
-  email :
+  #email :
   github : liveprogramming
   twitter : liveprog2013
-  feedburner : 
+  #feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -26,28 +26,11 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : liveprogramming.github.com/liveblog
+#production_url : liveprogramming.github.com/liveblog
 #production_url : liveblog
 
 baseurl : /liveblog
-url: http://liveprogramming.github.com
-
-# Jeykll-Scholar
-#scholar:
-#  style: apa
-#  locale: en
-#
-#  sort_by: none
-#  order: ascending
-#
-#  source: ./_bibliography
-#  bibliography: references.bib
-#
-#  details_dir:    bibliography
-#  details_layout: bibtex.html
-#  details_link:   Details
-#
-#  query: "@*"
+#url: http://liveprogramming.github.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -94,9 +77,9 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: [BASE_PATH]/archive.html
-  categories_path : {{BASE_PATH}}/categories.html
-  tags_path : {BASE_PATH}}/tags.html
+  archive_path: /liveblog/archive.html
+  categories_path : /liveblog/categories.html
+  tags_path : /liveblog/tags.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
