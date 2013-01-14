@@ -30,6 +30,7 @@ production_url : liveprogramming.github.com/liveblog
 #production_url : liveblog
 
 baseurl : /liveblog
+url: http://liveprogramming.github.com
 
 # Jeykll-Scholar
 #scholar:
