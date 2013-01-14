@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Live Programming Blog</title>
- <link href="http://liveprogramming.github.com/2013/liveblog/atom.xml" rel="self"/>
- <link href="http://liveprogramming.github.com/2013/liveblog"/>
- <updated>2013-01-14T01:26:35-05:00</updated>
- <id>http://liveprogramming.github.com/2013/liveblog</id>
+ <title></title>
+ <link href="/atom.xml" rel="self"/>
+ <link href=""/>
+ <updated>2013-01-14T01:47:06-05:00</updated>
+ <id></id>
  <author>
-   <name>Live collective</name>
+   <name></name>
    <email></email>
  </author>
 
  
  <entry>
    <title>A History of Live Programming</title>
-   <link href="http://liveprogramming.github.com/2013/liveblog/2013/01/13/a-history-of-live-programming"/>
+   <link href="/2013/01/13/a-history-of-live-programming.html"/>
    <updated>2013-01-13T00:00:00-05:00</updated>
-   <id>http://liveprogramming.github.com/2013/liveblog/2013/01/13/a-history-of-live-programming</id>
+   <id>/2013/01/13/a-history-of-live-programming</id>
    <content type="html">&lt;p&gt;&lt;img alt='alt text' src='/images/lighttable.png' /&gt;&lt;/p&gt;
 
 &lt;p&gt;The history of live programming stretches back to the earliest days of computing, assuming several different names, and manifesting in different forms: from interactive interpreters to live art performances.&lt;/p&gt;

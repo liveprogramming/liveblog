@@ -1,10 +1,10 @@
 
-http://liveprogramming.github.com/2013/liveblog/archive.html
-http://liveprogramming.github.com/2013/liveblog/atom.xml
-http://liveprogramming.github.com/2013/liveblog/categories.html
-http://liveprogramming.github.com/2013/liveblog/index.html
-http://liveprogramming.github.com/2013/liveblog/pages.html
-http://liveprogramming.github.com/2013/liveblog/sitemap.txt
-http://liveprogramming.github.com/2013/liveblog/tags.html
+/archive.html
+/atom.xml
+/categories.html
+/index.html
+/pages.html
+/sitemap.txt
+/tags.html
 
-http://liveprogramming.github.com/2013/liveblog/2013/01/13/a-history-of-live-programming
+/2013/01/13/a-history-of-live-programming.html
