@@ -26,7 +26,8 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : liveprogramming.github.com/liveblog
+#production_url : liveprogramming.github.com/liveblog
+production_url : liveblog
 
 # Jeykll-Scholar
 #scholar:
@@ -66,7 +67,8 @@ JB :
   #
   #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
   #  REQUIRED! Set BASE_PATH to: http://username.github.com/project-name
-BASE_PATH: http://liveprogramming.github.com/liveblog
+
+BASE_PATH : http://liveprogramming.github.com/liveblog
 
   # CAUTION:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
@@ -88,7 +90,7 @@ BASE_PATH: http://liveprogramming.github.com/liveblog
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: {{BASE_PATH}}/archive.html
+  archive_path: [BASE_PATH]/archive.html
   categories_path : {{BASE_PATH}}/categories.html
   tags_path : {BASE_PATH}}/tags.html
 
