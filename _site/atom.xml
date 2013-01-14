@@ -4,7 +4,7 @@
  <title>Live Programming Blog</title>
  <link href="http://liveprogramming.github.com/2013/liveblog/atom.xml" rel="self"/>
  <link href="http://liveprogramming.github.com/2013/liveblog"/>
- <updated>2013-01-14T01:16:55-05:00</updated>
+ <updated>2013-01-14T01:26:35-05:00</updated>
  <id>http://liveprogramming.github.com/2013/liveblog</id>
  <author>
    <name>Live collective</name>
@@ -67,7 +67,7 @@
 
 &lt;h2 id='live_coding'&gt;LIVE CODING&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href='https://github.com/davidedc/livecodelab' title='Live code lab'&gt;&lt;img alt='Image' src='/images/livecode.png' /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title='Live code lab' href='https://github.com/davidedc/livecodelab'&gt;&lt;img alt='Image' src='/images/livecode.png' /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Hacking, art, and performance has been with computing since the 1950s.&lt;br /&gt;Breaking out of the demoscene of 70s to 90s, where demo programs of graphics and music were swapped and shared, emerged a public art form where the graphics and music were created real-time in live programming environments.&lt;/p&gt;
 
