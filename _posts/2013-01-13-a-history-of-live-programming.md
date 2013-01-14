@@ -5,6 +5,7 @@ description: ""
 category: 
 tags: []
 ---
+{% include JB/setup %}
 
 ![alt text](/images/lighttable.png "Light Table")
 
