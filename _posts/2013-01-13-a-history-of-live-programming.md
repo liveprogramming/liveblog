@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-![alt text]({{site.baseurl}}/images/lighttable.png "Light Table")
+![alt text](/liveblog/images/lighttable.png "Light Table")
 
 The history of live programming stretches back to the earliest days of computing, assuming several different names, and manifesting in different forms: from interactive interpreters to live art performances.
 
