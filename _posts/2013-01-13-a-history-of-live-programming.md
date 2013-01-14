@@ -27,7 +27,7 @@ We review some of the history and give a list of useful resources and citations 
 
 ## Classic Era - Interactive Programming
 
-![alt text](/images/smalltalk.png "Small Talk")
+![alt text](/liveblog/images/smalltalk.png "Small Talk")
 
 Live programming is an idea espoused by programming
 environments from the earliest days of computing, such as
@@ -58,7 +58,7 @@ But are there other ways to think of liveness?  Perhaps, there are other dimensi
 
 ## LIVE CODING 
 
-[ ![Image](/images/livecode.png "Live Code") ](https://github.com/davidedc/livecodelab "Live code lab")
+[ ![Image](/liveblog/images/livecode.png "Live Code") ](https://github.com/davidedc/livecodelab "Live code lab")
 
 Hacking, art, and performance has been with computing since the 1950s.  
 Breaking out of the demoscene of 70s to 90s, 
@@ -90,7 +90,7 @@ For an intensive overview of live coding, including past events, and research se
 
 ## Software Visualization
 
-[ ![Image](/images/sorting.png "Sorting out sorting") ](http://www.youtube.com/watch?v=F3oKjPT5Khg)
+[ ![Image](/liveblog/images/sorting.png "Sorting out sorting") ](http://www.youtube.com/watch?v=F3oKjPT5Khg)
 
 The past two decades has seen various approaches for visualizing the source code of a program.  
 Examples include [SeeSoft](http://people.ischool.berkeley.edu/~hearst/irbook/10/seesoft.gif), visualizing all the source code lines of a program, and [CodeCity](http://www.inf.usi.ch/phd/wettel/codecity.html), rendering a program as a sprawling metropolis.
