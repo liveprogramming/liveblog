@@ -27,28 +27,30 @@ We review some of the history and give a list of useful resources and citations 
 
 ## Classic Era - Interactive Programming
 
-![alt text](/liveblog/images/smalltalk.png "Small Talk")
+![Screenshot of a Smalltalk system.](/liveblog/images/smalltalk.png)
 
 Live programming is an idea espoused by programming
 environments from the earliest days of computing, such as
-Lisp machines, Logo, Hypercard, and SmallTalk.  In common with all these systems was **_liveness_**: Feedback is nearly instanteous and evaluation is always accessible.  For example, any part of the SmallTalk environment could be modified at any time and reflected instantly.
+Lisp machines, Logo, Hypercard, and Smalltalk.  In common with all these systems was **_liveness_**: Feedback is nearly instantaneous and evaluation is always accessible.  For example, any part of the SmallTalk environment could be modified at any time and reflected instantly.
 Likewise, in HyperCard, the state of any object was considered to be live and editable at any time.
 
 For more recent example of liveness, see the following systems:
 
-- [python tutor](http://www.pythontutor.com)
-- [ipython](http://ipython.org)
-- [galaxy project](http://galaxyproject.org)
-- [Light Table](http://www.lighttable.com)
-- [Circa](http://circa-lang.org/).
+- [Python tutor](http://www.pythontutor.com)
+- [iPython](http://ipython.org)
+- [Galaxy project](http://galaxyproject.org)
+- [Lively Kernel](http://www.lively-kernel.org)
+- [Pharo](http://www.pharo-project.org)
+- [LightTable](http://www.lighttable.com)
+- [Circa](http://circa-lang.org)
 
 ## Four Degrees of Liveness 
 
-What does it take for a system to demostrate liveness?
+What does it take for a system to demonstrate liveness?
 
 Steve Tanimoto describes four degrees of liveness (Tanimoto90):
 - Level 1: No semantic feedback about a program is provided.
-- Level 2: Semantic feedback is available on demand on a selected component. _For example, typing in an expression in an interpreter demostrates level 2 liveness._
+- Level 2: Semantic feedback is available on demand on a selected component. _For example, typing in an expression in an interpreter demonstrates level 2 liveness._
 - Level 3: Incremental semantic feedback is automatically provided with an incremental program edit.  _For example, a spreadsheet supports level 3 liveness._
 - Level 4: In addition to level 3, incremental semantic feedback is automatically provided for other data events such as mouse clicks or exceptions.
 
@@ -61,7 +63,7 @@ But are there other ways to think of liveness?  Perhaps, there are other dimensi
 [ ![Image](/liveblog/images/livecode.png "Live Code") ](https://github.com/davidedc/livecodelab "Live code lab")
 
 Hacking, art, and performance has been with computing since the 1950s.  
-Breaking out of the demoscene of 70s to 90s, 
+Breaking out of the demo-scene of 70s to 90s, 
 where demo programs of graphics and music were swapped and shared, 
 emerged a public art form where the graphics and music were created real-time in live programming environments.
 
@@ -90,7 +92,7 @@ For an intensive overview of live coding, including past events, and research se
 
 ## Software Visualization
 
-[ ![Image](/liveblog/images/sorting.png "Sorting out sorting") ](http://www.youtube.com/watch?v=F3oKjPT5Khg)
+[ ![Sorting out sorting](/liveblog/images/sorting.png) ](http://www.youtube.com/watch?v=F3oKjPT5Khg)
 
 The past two decades has seen various approaches for visualizing the source code of a program.  
 Examples include [SeeSoft](http://people.ischool.berkeley.edu/~hearst/irbook/10/seesoft.gif), visualizing all the source code lines of a program, and [CodeCity](http://www.inf.usi.ch/phd/wettel/codecity.html), rendering a program as a sprawling metropolis.
