@@ -116,7 +116,6 @@ Have an idea to contribute?  Submit to the [LIVE 2013 workshop](http://liveprogr
 
 * Myers, B. A., McDaniel, R., & Wolber, D.. (2000). Programming by example: intelligence in demonstrational interfaces. Commun. ACM, 43(3), 82–89. doi:10.1145/330534.330545
 * Victor, B.. (2012). Learnable Programming. Retrieved from http://worrydream.com/LearnableProgramming
-* Kuhn, A.. (2012, December). On Extracting Unit Tests from Interactive Programming Sessions. Retrieved from http://arxiv.org/abs/1212.1796
 * Tanimoto, S. L.. (1990). VIVA: A visual language for image processing. J. Vis. Lang. Comput., 1, 127–139. doi:10.1016/S1045-926X(05)80012-6
 * Church, L., Nash, C., & Blackwell, A. F.. (2010). Liveness in notation use: From music to programming. In Proceedings of the 22nd Annual Workshop of the Psychology of Programming Interest Group (PPIG 2010) (2–11).
 * Edwards, J.. (2004). Example centric programming. In OOPSLA ’04: Companion to the 19th annual ACM SIGPLAN conference on Object-oriented programming systems, languages, and applications (124). New York, NY, USA: ACM. doi:10.1145/1028664.1028713
