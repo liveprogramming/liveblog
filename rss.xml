@@ -2,11 +2,11 @@
 <rss version="2.0">
   <channel>
     <title>LIVE PROG BLOG</title>
-    <link>http://sample.com</link>
-    <pubDate>2013-04-12 16:06:36 -0400</pubDate>
+    <link>http://liveprogramming.github.io</link>
+    <pubDate>2013-04-12 16:11:50 -0400</pubDate>
     <item>
       <title>Live Programming Contest Winners</title>
-      <link>http://sample.com/2013/04/live-programming-contest-winners</link>
+      <link>http://liveprogramming.github.io/liveblog/2013/04/live-programming-contest-winners</link>
       <pubDate>2013-04-12</pubDate>
       <description>&lt;h2 id="toc_0"&gt;Live Demos&lt;/h2&gt;
 
@@ -42,7 +42,7 @@ the production of live coding, as well as opening up interesting possibilities f
     </item>
     <item>
       <title>A History of Live Programming</title>
-      <link>http://sample.com/2013/01/a-history-of-live-programming</link>
+      <link>http://liveprogramming.github.io/liveblog/2013/01/a-history-of-live-programming</link>
       <pubDate>2013-01-13</pubDate>
       <description></description>
     </item>
