@@ -1,4 +1,6 @@
-**This version is for [ruhohSpec v2.0.alpha](http://ruhoh.com/edge/) and is only compatible with ruhoh 2.0.x**
+
+I would suggest keeping one repository for gh-pages and one repository for master:
+See https://gist.github.com/chrisjacob/833223
 
 To install setup ruhoh, use the following steps:
 
