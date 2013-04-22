@@ -1,0 +1,13 @@
+title : LIVE PROG BLOG
+tagline: liveness in programming
+author :
+  name : LIVE PROG BLOG
+  email : akuhn@gmx.ch
+  github : liveprogramming
+  twitter : liveprog2013
+  feedburner : feedname
+
+navigation :
+  - about.md
+  - archive.html
+  - tags.html

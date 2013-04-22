@@ -1,42 +1,101 @@
-# Jekyll-Bootstrap
+**This version is for [ruhohSpec v2.0.alpha](http://ruhoh.com/edge/) and is only compatible with ruhoh 2.0.x**
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+To install setup ruhoh, use the following steps:
 
 ## Usage
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+### ruby 1.9.2+
 
-## Version
+Presently ruhoh 2.0.alpha should be bundled using bundler so you can use both ruhoh 1.x and ruhoh 2.x at the same time.
 
-0.2.13 - stable and versioned using [semantic versioning](http://semver.org/).
+#### Clone the Blog Scaffold
 
-## Contributing 
+    $ git clone git://github.com/ruhoh/blog.git blog-v2
 
-This repository tracks 2 projects:
+Checkout **2.0.alpha branch**
 
-- **Jekyll-Bootstrap Framework.**  
-  The framework for which users should clone and build their blog on top of is available in the master branch.
-  
-  To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-  This is very important as it allows me to accept your pull request without having to publish a public version release.
-  
-  Small, atomic Features, bugs, etc.   
-  Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.   
-  Please rebase as often as possible when working.   
-  Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-  
-  For Big Features or major API extensions/edits:   
-  This is the one case where I'll accept pull-requests based off the master branch.
-  This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-  Translation : it might take a bit longer so please be patient! (but sincerely thank you).
- 
-- **Jekyll-Bootstrap Documentation Website.**    
-  The documentation website at <http://jekyllbootstrap.com> is maintained in the gh-pages branch.
-  Please fork and contribute documentation additions to this branch only.
+    $ cd blog-v2
+    $ git checkout 2.0.alpha
 
-The master and gh-pages branch do not share the same ancestry. Please treat them as completely separate git repositories!
+#### Get Bundler
 
+Do you have bundler?
+
+    $ bundle -v
+    
+If it's not found, install it:
+
+    $ gem install bundler
+    
+More info on bundler: http://gembundler.com/
+
+#### Bundle Install
+
+This blog ships with its own [Gemfile][]. All you need to do is install the bundle.
+
+Navigate to the root of this repository and execute:
+
+    $ bundle install
+
+#### Run Ruhoh from the Bundle
+
+Once the bundle is completed, run:
+
+    $ bundle exec rackup -p 9292
+
+This starts a web server that hosts your blog here: [http://localhost:9292](http://localhost:9292)
+
+To access the bundled ruhoh (2.0.alpha) you'll need precede your commands with `bundle exec`:
+
+    $ bundle exec ruhoh help
+
+#### Make it Your Own
+
+The origin initially points to: git@github.com:ruhoh/blog.git
+
+To add your own remote, first create a new repository on GitHub. ex: git@github.com:USERNAME/my-ruhoh-blog.git
+
+    $ git remote rm origin
+    $ git remote add origin git@github.com:USERNAME/my-ruhoh-blog.git
+
+Now you can add your own content and push it to your repository:
+
+    $ git add .
+    $ git commit -m 'some new content'
+
+## Upgrading
+
+It's best to first get a fresh blog installed and running locally via bundler as outlined.
+Next you'll want to compare your existing ruhoh 1.x blog to the new blog scaffold.
+
+[You can view a comparison of the commits between the two version on GitHub][Compare]
+
+Once you've converted your existing blog, try running it with ruhoh 2.0.x by copying the [Gemfile][] into your existing blog and running it with bundler as outlined above.
+
+When ruhoh 2.0. is officially shipped, you'll be able to download and use it as normal:
+
+    $ gem install ruhoh
+
+But not yet!
+
+## Help
+
+Feel free to submit installation and upgrading issues via [GitHub Issues](https://github.com/ruhoh/blog/issues)
+They can be basic trouble-shooting questions.
+
+Also contact me via:
+
+- email: plusjade@gmail.com
+- twitter: [@ruhohBlog](http://twitter.com/ruhohBlog)
+
+## Documentation
+
+See <http://ruhoh.com/docs/2> for full usage and documentation.
 
 ## License
 
-[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+Released under the [MIT License](http://www.opensource.org/licenses/MIT)
+
+
+[Compare]: https://github.com/ruhoh/blog/compare/2.0.alpha
+[Gemfile]: https://github.com/ruhoh/blog/blob/2.0.alpha/Gemfile

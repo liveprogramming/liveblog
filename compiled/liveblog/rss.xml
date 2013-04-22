@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>LIVE PROG BLOG</title>
+    <link>http://liveprogramming.github.io</link>
+    <pubDate>2013-04-12 17:08:08 -0400</pubDate>
+    <item>
+      <title>Live Programming Contest Winners</title>
+      <link>http://liveprogramming.github.io/liveblog/2013/04/live-programming-contest-winners</link>
+      <pubDate>2013-04-12</pubDate>
+      <description>&lt;h2 id="toc_0"&gt;Live Demos&lt;/h2&gt;
+
+&lt;p&gt;We are proud to announce the winners of this year&amp;#39;s LIVE programming contest!&lt;/p&gt;
+
+&lt;p&gt;We received 14 outstanding live programming demos and had a really hard time selecting the 3 winners. All demos will be presented live at the &lt;a href="http://http://liveprogramming.github.com/2013"&gt;LIVE workshop, on May 19, in San Francisco&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id="toc_1"&gt;Contest Winners&lt;/h2&gt;
+
+&lt;h3 id="toc_2"&gt;1st Place, &lt;a href="https://github.com/shurcooL/Conception#conception"&gt;Conception&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Conception is a programmer&amp;#39;s playground that blends ideas from systems such as Code Bubbles and Self, allowing a programmer to manipulate source code, execution, output,
+and many other programming artifacts, such as diffs and gists.  Even at an early stage, Conception has many neat ideas.  Watch the video!&lt;/p&gt;
+
+&lt;iframe width="640" height="360" src="http://www.youtube.com/embed/DNJ7HqlV55k?feature=player_embedded" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3 id="toc_3"&gt;2nd Place, &lt;a href="http://www.cs.berkeley.edu/%7Ejoel/codehint/"&gt;CodeHint&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;CodeHint is an excellent example of how ideas from live programming can be extended into mainstream programming environments.
+CodeHint supports &lt;em&gt;predictive programming&lt;/em&gt;, which Tanimoto describes as a &amp;quot;fifth-level&amp;quot; of liveness.
+CodeHint does this by simultaneously executing different possible API calls, allowing a programmer to interactively select which new changes to encorporate into the program.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The video is best viewed in full-screen with audio.&lt;/strong&gt;
+&lt;video width="640" height="360" src="http://www.cs.berkeley.edu/~joel/codehint/demo.webm" controls&gt;
+    Please use Firefox or Chrome to view this video.
+&lt;/video&gt;&lt;/p&gt;
+
+&lt;h3 id="toc_4"&gt;3rd Place, &lt;a href="http://echobin.wordpress.com/2013/04/04/improvisation-on-a-live-coded-mobile-musical-instrument-using-urmus/"&gt;urMus&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;urMus is a collaborative live coding system, which produces a live instrument manipulated by a performer.  The prototype system offers an interesting perspective on 
+the production of live coding, as well as opening up interesting possibilities for a collobrative team of programmers to bring something to life.&lt;/p&gt;
+
+&lt;iframe width="640" height="360" src="http://www.youtube.com/embed/B9VYA_6spoI?feature=player_detailpage" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2 id="toc_5"&gt;See the demos!&lt;/h2&gt;
+
+&lt;p&gt;If you like to watch these demos and come join us on May 19 in San Francisco. Besides the demos, the workshop will feature an track with lighting talks and hands-on working groups. We expect a mixed crowd of academics and practitioners from all over the world. Early bird tickets are available until this Sunday, April 14, &lt;a href="http://http://liveprogramming.github.com/2013/register.html"&gt;register now&lt;/a&gt; hurry up!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>A History of Live Programming</title>
+      <link>http://liveprogramming.github.io/liveblog/2013/01/a-history-of-live-programming</link>
+      <pubDate>2013-01-13</pubDate>
+      <description></description>
+    </item>
+  </channel>
+</rss>
