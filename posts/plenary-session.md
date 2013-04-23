@@ -8,8 +8,8 @@ tags:
 
 [LIVE 2013](http://liveprogramming.github.io/2013/) will start with a bang, featuring three speakers with deep roots in the history of live programming.
 [Steve Tanimoto](http://www.cs.washington.edu/people/faculty/tanimoto/) will be revisiting his framework on "liveness" and thoughts on new levels and directions.  
-[David Ungar](http://researcher.watson.ibm.com/researcher/view.php?person=us-davidungar) and [Randy Smith](http://labs.oracle.com/pls/apex/f?p=labs:bio:0:118) will be jointly talking about the hugely inspirational systems Ark and Self.  
-[Thor Magnusson](http://www.sussex.ac.uk/Users/thm21/) will be speaking about the history of the live coding music scene and his newest live coding system.
+[David Ungar](http://researcher.watson.ibm.com/researcher/view.php?person=us-davidungar) and [Randy Smith](http://labs.oracle.com/pls/apex/f?p=labs:bio:0:118) will be jointly talking about the hugely inspirational systems ARK and Self.  
+[Thor Magnusson](http://arts.brighton.ac.uk/staff/thor-magnusson) will be speaking about the history of the live coding music scene and his newest live coding system.
 
 ### Steve Tanimoto Revisits Liveness
 
